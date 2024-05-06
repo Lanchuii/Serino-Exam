@@ -1,5 +1,5 @@
 # Serino Exam: Kitra
-Hi this is my interpretation of the technical exam that was given to me. It was quite challenging but nevertheless a fun experience! For this project I used geolib library for a quick way to calculate distance using the latitude and longitude. I also use JWT for user authentication. There are only 3 endpoints which is for login, get user and finding the treasure. The instructions are written below. Enjoy!
+Hi this is my interpretation of the technical exam that was given to me. Creating a solution was quite challenging but nevertheless a fun experience! For this project I used geolib library for a quick way to calculate distance using the latitude and longitude. I also added user authentication because of how I understood the introduction specifying "Kitra Users". There are only 3 endpoints which is for login, get user and finding the treasure. I hope the instructions written below are clear. Enjoy!
 
 ## How to run the server:
 - open repository and open terminal
