@@ -6,9 +6,9 @@ Hi this is my interpretation of the technical exam that was given to me. It was 
 - run `npm install`
 - run `npm run start`
 
-## Testing the endpoints:
+# Testing the endpoints:
 Pre-requisite: Open postman
-# Login (`http://localhost/3000/user/login`):
+## Login (`http://localhost/3000/user/login`):
 - Enter URL
 - open body and input user details to login
 - sample input```{
@@ -18,7 +18,7 @@ Pre-requisite: Open postman
 - sample result: ```{
     "token": "eyJhbGciOiJIUzI1NiJ9.MzAwMA.u1OJwGJJ7gWoOELuHNDLj32hrpH_GervnsdyE_8LMUY"
 }```
-# Get user (`http://localhost/3000/user`):
+## Get user (`http://localhost/3000/user`):
 - Enter URL
 - copy token from login endpoint
 - go to authorization tab in postman and select "Bearer Token"
@@ -30,7 +30,7 @@ Pre-requisite: Open postman
     "email": "u1@kitra.abc"
 }```
 
-# Nearby Treasure (`http://localhost/3000/treasure`):
+## Nearby Treasure (`http://localhost/3000/treasure`):
 - Enter URL
 - copy token from login endpoint
 - go to authorization tab in postman and select "Bearer Token"
