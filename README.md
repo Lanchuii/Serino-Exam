@@ -1,10 +1,13 @@
 # Serino Exam: Kitra
 Hi this is my interpretation of the technical exam that was given to me. Creating a solution was quite challenging but nevertheless a fun experience! For this project I used geolib library for a quick way to calculate distance using the latitude and longitude. I also added user authentication because of how I understood the introduction specifying "Kitra Users". There are only 3 endpoints which is for login, get user and finding the treasure. I hope the instructions written below are clear. Enjoy!
 
-## How to run the server:
+## How to run the server (windows/linux):
 - open repository and open terminal
 - run `npm install`
 - run `npm run start`
+## if ran on windows first then windows next (vice-versa) follow these instructions:
+- delete node_modules or run `rm -rf node_modules/`
+- run `npm install`
 
 # Testing the endpoints:
 Pre-requisite: Open postman
