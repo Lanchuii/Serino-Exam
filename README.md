@@ -5,7 +5,7 @@ Hi this is my interpretation of the technical exam that was given to me. Creatin
 - open repository and open terminal
 - run `npm install`
 - run `npm run start`
-## if ran on windows first then windows next (vice-versa) follow these instructions:
+## if ran on windows first and then ran on linux(vice-versa), follow these instructions:
 - delete node_modules or run `rm -rf node_modules/`
 - run `npm install`
 
