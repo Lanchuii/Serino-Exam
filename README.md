@@ -11,6 +11,8 @@ Hi this is my interpretation of the technical exam that was given to me. Creatin
 
 # DB seeding/migration:
 - the database should be seeded upon running the server through the initDB() function which runs the database.ts script
+- run `npm install` to install the better-sqlite3 package
+- run `npm run start` to start server and initialize the database
 
 # Testing the endpoints:
 Pre-requisite: Open postman
